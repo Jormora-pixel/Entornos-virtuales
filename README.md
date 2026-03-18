@@ -16,7 +16,7 @@ Agrega aquí una imagen, GIF o demo:
 ![Demo](ruta/a/tu/imagen.gif)
 
 ---
-
+![Descripción](https://url-de-la-imagen.com/imagen.png)
 ## 🧩 Características
 
 - ✅ Funcionalidad principal 1  
